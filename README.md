@@ -1,2 +1,2 @@
 # Alex1030-web.github.io
-My portfolio 2026
+My Personal Portfolio 2026
